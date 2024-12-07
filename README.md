@@ -7,6 +7,8 @@ The Prisma Vault system is designed to manage series development, from early con
 - Team coordination
 - Research and references
 
+Download as a zip file: <https://github.com/peterkaminski/prisma-vault/archive/refs/heads/main.zip>
+
 The file/folder system is designed for [Obsidian.md](https://obsidian.md/) and [Massive Wiki](https://massive.wiki/). For multi-device or teams, you can use Obsidian Sync (paid, easy) or Git (free, a little technical).
 
 ## Getting Started
