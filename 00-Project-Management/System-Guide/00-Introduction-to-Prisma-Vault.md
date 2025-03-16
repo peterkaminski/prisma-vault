@@ -1,7 +1,8 @@
 # Prisma Vault System Guide
 
-This guide explains how to effectively use the Prisma vault system for series development and production management.
+This guide explains how to effectively use the Prisma Vault system for series development and production management.
 
+It is an opinionated framework, with specific recommendations and guidelines. Feel free to customize the framework to make it fit your team and its needs.
 ## Core Principles
 1. **Clear Organization**: Every file has its place in the hierarchy
 2. **Version Control**: Track changes and development over time
@@ -22,5 +23,4 @@ This guide explains how to effectively use the Prisma vault system for series de
 
 ## Navigation Tips
 - Use tags for cross-referencing
-- Link related documents using Obsidian's `[[]]` syntax
-- Create custom views using Obsidian's search operators
+- Link related documents using the double-square-bracket `[[Page Name]]` wikilink convention
