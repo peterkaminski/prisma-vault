@@ -27,3 +27,10 @@
 3. Maintain links to replacement content
 4. Update related documentation
 5. Record in change logs
+
+## Writing Logs
+1. Create a dated log file in `00-Project-Management/Writing-Logs/` using format `YYYY-MM-DD-[Writer/Team]-Log.md`
+2. Tag with appropriate tags: `#pm/workflow`, `#team/writing`, `#doc/note`
+3. Include session goals, progress updates, challenges, and next steps
+4. Link to any related content or documents referenced
+5. For AI assistant logs, include prompt details and generation settings
