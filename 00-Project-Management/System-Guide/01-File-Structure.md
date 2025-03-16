@@ -6,10 +6,13 @@ This document outlines the complete folder and file structure of the vault. Stan
 Series-Vault/
 ├── 00-Project-Management/
 │   ├── System-Guide/
-│   │   ├── 00-Introduction.md
+│   │   ├── 00-Introduction-to-Prisma-Vault.md
 │   │   ├── 01-File-Structure.md
 │   │   ├── 02-Tags.md
 │   │   └── 03-Workflows.md
+│   ├── Writing-Logs/
+│   │   ├── 00-Writing-Logs-Guide.md
+│   │   └── YYYY-MM-DD-Writer-Log.md
 │   ├── Meetings/
 │   │   ├── Meeting-Log.md
 │   │   └── Action-Items.md
@@ -109,11 +112,13 @@ Series-Vault/
 │       └── World-Connections.md
 │
 └── 99-Templates/
+    ├── Basic-Note.md
+    ├── Writing-Log-Template.md
     ├── Character-Templates/
     │   ├── Main-Character.md
     │   └── Supporting-Character.md
     ├── Episode-Templates/
-    │   ├── Outline-Template.md
+    │   ├── Episode-Outline.md
     │   └── Script-Template.md
     └── Meeting-Templates/
         ├── Story-Meeting.md
