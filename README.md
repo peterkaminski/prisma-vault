@@ -27,6 +27,20 @@ See `00-Project-Management/System-Guide/` for comprehensive documentation on:
 - `60-Maps/`: Visual organization tools
 - `99-Templates/`: Standard templates for consistency
 
+## Sibling Frameworks
+
+Prisma Vault is one of three sibling frameworks for long-form writing projects, all dedicated to the public domain via CC0:
+
+- **[Arc Vault](https://github.com/peterkaminski/arc-vault)** — multi-volume novels with continuous narrative arcs
+- **[Prisma Vault](https://github.com/peterkaminski/prisma-vault)** — serialized fiction with episodes and seasons
+- **[Spectra Vault](https://github.com/peterkaminski/spectra-vault)** — nonfiction book development, organized around research, sources, and evidence
+
+Each emphasizes the structures and workflows specific to its form. Prisma differs from its siblings by:
+
+- Organizing around **episodes and seasons** rather than volumes or research areas
+- Foregrounding **production** alongside development
+- Refracting a single series into many parallel storylines and points of view
+
 ## Contact
 [Your contact information here]
 
